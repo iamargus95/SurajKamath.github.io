@@ -1,4 +1,16 @@
-Strata by HTML5 UP
+This website is available [here](https://iamargus95.github.io)!!
+
+A Static webite to host my latest resume and a contact form.
+
+
+
+
+
+
+
+
+
+<!-- Strata by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
@@ -30,4 +42,4 @@ Credits:
 
 	Other:
 		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		Responsive Tools (github.com/ajlkn/responsive-tools) -->
